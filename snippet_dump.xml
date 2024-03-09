@@ -1,0 +1,24 @@
+
+<!-- add these in the Isla 5 section of strings_en_dump.xml -->
+<!-- Lady Gillian -->
+<string id="1615189">{09}</string>
+<string id="1615289">{09}</string>
+<string id="1615342">{09}</string>
+<string id="1850544">{09}</string>
+<!-- Lady Jackie -->
+<string id="1615361">{09}</string>
+<string id="1615429">{09}</string>
+<string id="1615487">{09}</string>
+<string id="1850609">{09}</string>
+
+<!-- replace charm allocation with these -->
+<string id="101401">Exp50 Charm</string>
+<string id="101402">Exp100 Charm</string> <!--{STRING_101120} (+100%)-->
+<string id="101405">{STRING_101122} (+100%)</string>
+<string id="101406">BP25 Charm</string> <!--{STRING_101124} (+25%) -->
+<string id="101407">BP50 Charm</string> <!--{STRING_101124} (+25%) -->
+<string id="101408">BP100 Charm</string> <!--{STRING_101124} (+25%) -->
+<string id="101409">{STRING_101126} (+10%)</string>
+<string id="101413">Rich100 Charm</string> <!-- {STRING_101128} (+100%) -->
+<string id="101414">Rich150 Charm</string> <!-- {STRING_101128} (+150%) -->
+<string id="101412">Rich75 Charm</string> <!-- {STRING_101128} (+75%) -->
