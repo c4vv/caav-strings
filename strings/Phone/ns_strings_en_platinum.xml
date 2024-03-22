@@ -1262,7 +1262,7 @@
     <string block_id="0" entry_id="2389" table_id="617">{09}</string>
     <string block_id="0" entry_id="2392" table_id="617">{09}</string>
     <string block_id="0" entry_id="2395" table_id="617">{09}</string>
-   <!-- RT 202 --> 
+   <!-- RT 202 -->
     <string block_id="0" entry_id="12" table_id="617">{09}</string>
     <string block_id="0" entry_id="13" table_id="617">{09}</string>
     <string block_id="0" entry_id="14" table_id="617">{09}</string>
@@ -2239,4 +2239,77 @@
     <string block_id="0" entry_id="1960" table_id="617">{09}</string>
     <string block_id="0" entry_id="1963" table_id="617">{09}</string>
     <string block_id="0" entry_id="1966" table_id="617">{09}</string>
+
+    <!-- Trainer Reruns -->
+      <!-- Sinnoh - Route 212 - Gentleman Jeremy - $3,920 -->
+      <string block_id="0" entry_id="431" table_id="617">{09}</string>
+      <string block_id="0" entry_id="429" table_id="617">{09}</string>
+      <string block_id="0" entry_id="430" table_id="617">{09}</string>
+      <!-- Sinnoh - Route 212 - Socialite Reina - $4000 -->
+      <string block_id="0" entry_id="435" table_id="617">{09}</string>
+      <string block_id="0" entry_id="433" table_id="617">{09}</string>
+      <string block_id="0" entry_id="434" table_id="617">{09}</string>
+      <!-- Sinnoh - Route 212 - Rich Boy Jason - $4000 -->
+      <string block_id="0" entry_id="423" table_id="617">{09}</string>
+      <string block_id="0" entry_id="421" table_id="617">{09}</string>
+      <string block_id="0" entry_id="422" table_id="617">{09}.</string>
+      <!-- Sinnoh - Route 212 - Lady Melissa - $4000 -->
+      <string block_id="0" entry_id="427" table_id="617">{09}</string>
+      <string block_id="0" entry_id="425" table_id="617">{09}</string>
+      <string block_id="0" entry_id="426" table_id="617">{09}</string>
+      <!-- Sinnoh - Route 225 - Ace Trainer Quinn - $3,648 -->
+      <string block_id="0" entry_id="1634" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1632" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1633" table_id="617">{09}</string>
+      <!-- Sinnoh - Route 225 - Ace Trainer Rodolfo - $3,648 -->
+      <string block_id="0" entry_id="1618" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1616" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1617" table_id="617">{09}</string>
+      <!-- Sinnoh - Route 225 - Ranger Dwayne - $3,480 -->
+      <string block_id="0" entry_id="1690" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1688" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1689" table_id="617">{09}</string>
+      <!-- Sinnoh - Route 229 - Ace Trainer Felix - $3,648 -->
+      <string block_id="0" entry_id="1630" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1628" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1629" table_id="617">{09}</string>
+      <!-- Sinnoh - Route 229 - Ace Trainer Dana - $3,648 -->
+      <string block_id="0" entry_id="1650" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1648" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1649" table_id="617">{09}</string>
+
+      <!-- Sinnoh - Route 228 - Ace Trainer Meagan - $3,776 -->
+      <string block_id="0" entry_id="1658" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1656" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1657" table_id="617">{09}</string>
+      <!-- Sinnoh - Route 228 - Ranger Kyler - $3,540 -->
+      <string block_id="0" entry_id="1682" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1680" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1681" table_id="617">{09}</string>
+      <!-- Sinnoh - Route 228 - Ranger Krista - $3,540 -->
+      <string block_id="0" entry_id="1702" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1700" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1701" table_id="617">{09}</string>
+      <!-- Sinnoh - Route 228 - Ace Trainer Moira - $3,712 -->
+      <string block_id="0" entry_id="1646" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1644" table_id="617">{09}></string>
+      <string block_id="0" entry_id="1645" table_id="617">{09}</string>
+      <!-- Sinnoh - Route 228 - Ace Trainer Jose - $3,712 -->
+      <string block_id="0" entry_id="1626" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1624" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1625" table_id="617">{09}</string>
+      <!-- Sinnoh - Route 226 - Ace Trainer Graham - $3,712 -->
+      <string block_id="0" entry_id="1638" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1636" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1637" table_id="617">{09}</string>
+
+      <!-- Sinnoh - Route 227 - Ace Trainer Saul - $3,904 -->
+      <string block_id="0" entry_id="1622" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1620" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1621" table_id="617">{09}</string>
+      <!-- Sinnoh - Route 227 - Ranger Felicia - $3,600 -->
+      <string block_id="0" entry_id="1698" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1696" table_id="617">{09}</string>
+      <string block_id="0" entry_id="1697" table_id="617">{09}</string>
+
 </ds_strings_archive>

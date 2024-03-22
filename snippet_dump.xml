@@ -22,3 +22,11 @@
 <string id="101413">Rich100 Charm</string> <!-- {STRING_101128} (+100%) -->
 <string id="101414">Rich150 Charm</string> <!-- {STRING_101128} (+150%) -->
 <string id="101412">Rich75 Charm</string> <!-- {STRING_101128} (+75%) -->
+
+<!-- replace under objetos for xanarchy gym items to top of bag -->
+<string id="245220"> {STRING_245220}</string> <!-- Choice Band -->
+<string id="245287"> {STRING_245287}</string> <!-- Choice Scarf -->
+<string id="245297"> {STRING_245297}</string> <!-- Choice Specs -->
+<string id="245541"> {STRING_245541}</string> <!-- Air Balloon -->
+<string id="245240"> {STRING_245240}</string> <!-- Blackglasses -->
+<string id="245243"> {STRING_245243}</string> <!-- Mystic Water -->

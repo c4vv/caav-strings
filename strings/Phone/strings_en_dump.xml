@@ -337,7 +337,7 @@
     <string id="21331"> ◘Poisonous Flower Hat</string>
     <string id="21356"> ◘Aurora Beast Mane</string>
     <string id="21359"> ◘Trick Kitty</string>ingles
-    <string id="21361"> ◘Pumpcat</string> 
+    <string id="21361"> ◘Pumpcat</string>
 
     <string id="22042"> ◘THE ELECTRIC STORM</string>
 
@@ -365,10 +365,13 @@
     <string id="31030"> ◘Lucky Gold Dragon</string>
  <!-- Items -->
   <!-- Objetos -->
-    <string id="245220"> {STRING_245220}</string>
-    <string id="245287"> {STRING_245287}</string>
-    <string id="245297"> {STRING_245297}</string>
-    <string id="245541"> {STRING_245541}</string>
+    <string id="245220"> {STRING_245220}</string> <!-- Choice Band -->
+    <string id="245287"> {STRING_245287}</string> <!-- Choice Scarf -->
+    <string id="245297"> {STRING_245297}</string> <!-- Choice Specs -->
+    <string id="245541"> {STRING_245541}</string> <!-- Air Balloon -->
+    <string id="245240"> {STRING_245240}</string> <!-- Blackglasses -->
+    <string id="245243"> {STRING_245243}</string> <!-- Mystic Water -->
+
 
     <string id="245289">{STRING_248289} (ATK)</string>
     <string id="245290">{STRING_248290} (DEF)</string>
@@ -1491,7 +1494,7 @@
     <string id="1527052">{09}</string>
     <string id="1527109">{09}</string>
     <string id="1527304">{09}</string>
-    <string id="1527353">{09}</string>    
+    <string id="1527353">{09}</string>
     <!-- Isla 1 -->
     <string id="1708984">{09}</string>
     <string id="1709003">{09}</string>

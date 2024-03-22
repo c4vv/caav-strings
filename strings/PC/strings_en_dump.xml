@@ -365,10 +365,12 @@
     <string id="31030"> ◘Lucky Gold Dragon</string>
  <!-- Items -->
   <!-- Objetos -->
-    <string id="245220"> {STRING_245220}</string>
-    <string id="245287"> {STRING_245287}</string>
-    <string id="245297"> {STRING_245297}</string>
-    <string id="245541"> {STRING_245541}</string>
+    <string id="245220"> {STRING_245220}</string> <!-- Choice Band -->
+    <string id="245287"> {STRING_245287}</string> <!-- Choice Scarf -->
+    <string id="245297"> {STRING_245297}</string> <!-- Choice Specs -->
+    <string id="245541"> {STRING_245541}</string> <!-- Air Balloon -->
+    <string id="245240"> {STRING_245240}</string> <!-- Blackglasses -->
+    <string id="245243"> {STRING_245243}</string> <!-- Mystic Water -->
 
     <string id="245289">{STRING_248289} (ATK)</string>
     <string id="245290">{STRING_248290} (DEF)</string>
