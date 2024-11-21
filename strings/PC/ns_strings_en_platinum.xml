@@ -133,12 +133,16 @@
    <!-- NPC REMATCH -->
     <!-- RT 212 -->
      <!-- Abuelos -->
+     <string block_id="0" entry_id="423" table_id="617">{09}</string>
+     <string block_id="0" entry_id="427" table_id="617">{09}</string>
      <string block_id="0" entry_id="428" table_id="617">{09}</string>
      <string block_id="0" entry_id="429" table_id="617">{09}</string>
      <string block_id="0" entry_id="430" table_id="617">{09}</string>
+     <string block_id="0" entry_id="431" table_id="617">{09}</string>
      <string block_id="0" entry_id="432" table_id="617">{09}</string>
      <string block_id="0" entry_id="433" table_id="617">{09}</string>
      <string block_id="0" entry_id="434" table_id="617">{09}</string>
+     <string block_id="0" entry_id="435" table_id="617">{09}</string>
      <!-- Niños ricos -->
      <string block_id="0" entry_id="420" table_id="617">{09}</string>
      <string block_id="0" entry_id="421" table_id="617">{09}</string>
@@ -2198,6 +2202,37 @@
     <string block_id="0" entry_id="985" table_id="617">{09}</string>
     <string block_id="0" entry_id="986" table_id="617">{09}</string>
     <string block_id="0" entry_id="987" table_id="617">{09}</string>
+   <!-- RT 225 -->
+    <string block_id="0" entry_id="1616" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1618" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1632" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1634" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1688" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1690" table_id="617">{09}</string>
+   <!-- RT 226 -->
+    <string block_id="0" entry_id="1636" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1638" table_id="617">{09}</string>
+   <!-- RT 227 -->
+    <string block_id="0" entry_id="1620" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1622" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1696" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1698" table_id="617">{09}</string>
+   <!-- RT 228 -->
+    <string block_id="0" entry_id="1624" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1626" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1644" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1646" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1656" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1658" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1680" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1682" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1700" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1702" table_id="617">{09}</string>
+   <!-- RT 229 -->
+    <string block_id="0" entry_id="1630" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1628" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1650" table_id="617">{09}</string>
+    <string block_id="0" entry_id="1648" table_id="617">{09}</string>
    <!-- Calle Victoria -->
     <string block_id="0" entry_id="1091" table_id="617">{09}</string>
     <string block_id="0" entry_id="1092" table_id="617">{09}</string>
